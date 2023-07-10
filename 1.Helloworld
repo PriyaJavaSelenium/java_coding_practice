@@ -3,5 +3,6 @@ package java_practice_prog_for_github;
 public class hello_world {
     public static void main(String[] args) {
         System.out.println("Hello World for github");
+        System.out.println("Hello World for github");
     }
 }
