@@ -1,0 +1,10 @@
+package javaPracticeDaily_w3School;
+
+import org.w3c.dom.ls.LSOutput;
+
+public class create_a_string_variable_2_normalMethod {
+    public static void main(String[] args) {
+        String Priya_Profile = "Priya is working in IT!!!!";
+        System.out.println(Priya_Profile);
+    }
+}
