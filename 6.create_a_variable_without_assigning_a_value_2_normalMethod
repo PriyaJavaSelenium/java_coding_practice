@@ -1,0 +1,9 @@
+package javaPracticeDaily_w3School;
+
+public class create_a_variable_without_assigning_a_value_2_normalMethod {
+    public static void main(String[] args) {
+        int a;
+        a = 1;
+        System.out.println(a);
+    }
+}
