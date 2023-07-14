@@ -1,0 +1,12 @@
+package javaPracticeDaily_w3School;
+
+import org.w3c.dom.ls.LSOutput;
+
+public class create_a_integer_variable_1_UsingObject {
+    public Integer a = 37;
+
+    public static void main(String[] args) {
+        create_a_integer_variable_1_UsingObject CAIV = new create_a_integer_variable_1_UsingObject();
+        System.out.println(CAIV.a);
+    }
+}
