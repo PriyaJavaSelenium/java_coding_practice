@@ -1,0 +1,9 @@
+package javaPracticeDaily_w3School;
+
+public class create_final_variable {
+    public static void main(String[] args) {
+        final int a = 37;
+        //a = 36; (Will get an error)
+        System.out.println(a);
+    }
+}
