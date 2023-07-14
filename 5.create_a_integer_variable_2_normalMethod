@@ -1,0 +1,8 @@
+package javaPracticeDaily_w3School;
+
+public class create_a_integer_variable_2_normalMethod {
+    public static void main(String[] args) {
+        int a = 36;
+        System.out.println(a);
+    }
+}
