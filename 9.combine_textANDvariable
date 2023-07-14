@@ -1,0 +1,8 @@
+package javaPracticeDaily_w3School;
+
+public class combine_textANDvariable {
+    public static void main(String[] args) {
+        String name = "Priya";   //you forgot to put double quotes so u got error, dont repeat!!
+        System.out.println(name + " is working in IT!!");
+    }
+}
